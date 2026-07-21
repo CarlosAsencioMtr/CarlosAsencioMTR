@@ -1,4 +1,4 @@
-# Hola, soy Carlos José Asencio Doñe 
+# Hola, soy Carlos José Asencio 
 
 Soy Analista de Innovación Tecnológica, enfocado en analítica de datos, automatización de procesos, visualización de información, inteligencia artificial aplicada y soluciones tecnológicas para la mejora continua.
 
