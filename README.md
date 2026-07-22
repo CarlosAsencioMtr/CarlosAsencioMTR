@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C2FF&height=230&section=header&text=Carlos%20Jos%C3%A9%20Asencio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descDtica%20de%20Datos%20%7C%20Automatizaci%C3%B3n%20%7C%20Power%20BI%20%7C%20IA%20Aplicada%20%7C%20Innovaci%C3%B3n%20Tecnol%C3%B3gica&descSize=16&descAlignY=55
+  <img src="psule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C2FF&height=230&section=header&text=Carlos%20Jos%C3%A9%20Asencio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Anal%C3%ADtica%20de%20Datos%20%7C%20Automatizaci%C3%B3n%20%7C%20Power%20BI%20%7C%20IA%20Aplicada%20%7C%20Innovaci%C3%B3n%20Tecnol%C3%B3gica&descSize=16&descAlignY=55
 </p>
 
 <h1 align="center">Hola, soy Carlos José Asencio 👋</h1>
@@ -47,19 +47,20 @@ Innovación Tecnológica
 
 ## 🧠 Áreas de interés
 
-<p align="center">
-  https://img.shields.io/badge/Anal%C3%ADtica%20de%20Datos-0078D4?style=for-the-badge&logo=databricks&logoColor=white
-  https://img.shields.io/badge/Automatizaci%C3%B3n%20de%20Procesos-00AEEF?style=for-the-badge&logo=powerautomate&logoColor=white
-  https://img.shields.io/badge/Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-  https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-</p>
+<div align="center">
 
-<p align="center">
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white
-  https://img.shields.io/badge/IA%20Aplicada-00A67E?style=for-the-badge&logo=openai&logoColor=white
-  <img src="https://img.shields.io/badge/Innovaci%C3%B3n%20Tecnol%742774?style=for-the-badge&logo=microsoft&logoColor=white
-</p>
+| Icono | Área | Enfoque |
+|---|---|---|
+| 📊 | **Analítica de datos** | Transformar datos en información útil para la toma de decisiones. |
+| ⚙️ | **Automatización de procesos** | Reducir tareas manuales y optimizar flujos de trabajo. |
+| 📈 | **Business Intelligence** | Crear indicadores, reportes y análisis para seguimiento de resultados. |
+| 🟡 | **Power BI** | Diseñar dashboards interactivos y visualizaciones ejecutivas. |
+| 🐍 | **Python** | Automatización, análisis de datos y procesamiento de información. |
+| 🗄️ | **SQL** | Consulta, organización y análisis de datos estructurados. |
+| 🤖 | **Inteligencia Artificial aplicada** | Aplicar IA para productividad, análisis y mejora de procesos. |
+| 🚀 | **Innovación tecnológica** | Desarrollar soluciones digitales para la mejora continua. |
+
+</div>
 
 ---
 
@@ -69,25 +70,18 @@ Innovación Tecnológica
   https://skillicons.dev/icons?i=python,github,git,vscode,azure,powershell
 </p>
 
-<p align="center">
-  <img src="httpselds.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  <img src="https://img.shields.io/badge/SQL-025for-the-badge&logo=postgresql&logoColor=white
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=dge&logo=powerbi&logoColor=black
-  <img src="https://img.shields.io/badge/Excel%20Avanzado-217346?style=for-the-badgeosoftexcel&logoColor=white
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badgeuery-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&black
-  <img src="https://img.shields.io/badge/GitHub-181717-the-badge&logo=github&logoColor=white
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=ffice&logoColor=white
-</p>
+| Categoría | Herramientas |
+|---|---|
+| 🐍 **Programación y análisis** | Python, SQL |
+| 📊 **Business Intelligence** | Power BI, DAX, Power Query |
+| 📗 **Productividad y datos** | Excel avanzado, Microsoft 365 |
+| ⚙️ **Automatización** | Automatización de reportes, Power Automate |
+| 🤖 **Inteligencia artificial** | Copilot, IA generativa aplicada |
+| 🧩 **Gestión técnica** | GitHub, Git, VS Code |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Copilot-0078D4?style=for-the-badgeosoft&logoColor=white
-  <img src="https://img.shields.io/badge/Automatizaci%C3%B3n%20de%20Reportesyle=for-the-badge&logo=powerautomate&logoColor=white
-  <img src="https://img.shields.io/badge/Visualizaci%C3%B3n%20de%6F00?style=for-the-badge&logo=googleanalytics&logoColor=white
-</p>
+</div>
 
 ---
 
@@ -113,11 +107,12 @@ Convertir datos en información clara, útil y accionable para apoyar la toma de
 
 **Tecnologías relacionadas:**
 
-<p>
-  https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-  https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white
-  https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white
-  https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white
+<p align="center">
+  🐍 <strong>Python</strong> &nbsp; | &nbsp;
+  📊 <strong>Pandas</strong> &nbsp; | &nbsp;
+  📗 <strong>Excel</strong> &nbsp; | &nbsp;
+  🔄 <strong>Power Query</strong> &nbsp; | &nbsp;
+  🗄️ <strong>SQL</strong>
 </p>
 
 ---
@@ -142,12 +137,12 @@ Crear visualizaciones claras e interactivas que permitan analizar indicadores cl
 
 **Tecnologías relacionadas:**
 
-<p>
-  https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black
-  https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black
-  https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white
-  https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white
-  https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white
+<p align="center">
+  🟡 <strong>Power BI</strong> &nbsp; | &nbsp;
+  📐 <strong>DAX</strong> &nbsp; | &nbsp;
+  🔄 <strong>Power Query</strong> &nbsp; | &nbsp;
+  📗 <strong>Excel</strong> &nbsp; | &nbsp;
+  🗄️ <strong>SQL</strong>
 </p>
 
 ---
@@ -172,12 +167,12 @@ Optimizar tareas repetitivas mediante procesos automatizados que permitan genera
 
 **Tecnologías relacionadas:**
 
-<p>
-  https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-  https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white
-  https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white
-  https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white
-  https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white
+<p align="center">
+  🐍 <strong>Python</strong> &nbsp; | &nbsp;
+  📗 <strong>Excel</strong> &nbsp; | &nbsp;
+  🔄 <strong>Power Query</strong> &nbsp; | &nbsp;
+  ⚙️ <strong>Power Automate</strong> &nbsp; | &nbsp;
+  ☁️ <strong>Microsoft 365</strong>
 </p>
 
 ---
@@ -202,11 +197,11 @@ Aplicar inteligencia artificial para mejorar la productividad, analizar informac
 
 **Tecnologías relacionadas:**
 
-<p>
-  https://img.shields.io/badge/IA%20Generativa-00A67E?style=flat-square&logo=openai&logoColor=white
-  https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white
-  https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white
-  https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+<p align="center">
+  🤖 <strong>IA Generativa</strong> &nbsp; | &nbsp;
+  🧠 <strong>Microsoft Copilot</strong> &nbsp; | &nbsp;
+  ☁️ <strong>Microsoft 365</strong> &nbsp; | &nbsp;
+  🐍 <strong>Python</strong>
 </p>
 
 ---
@@ -215,22 +210,17 @@ Aplicar inteligencia artificial para mejorar la productividad, analizar informac
 
 Actualmente estoy fortaleciendo mis conocimientos en áreas que complementan mi perfil profesional y me permiten crear soluciones tecnológicas más completas.
 
-<p align="center">
-  https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange
-  https://img.shields.io/badge/Automatizaci%C3%B3n%20Avanzada-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white
-  https://img.shields.io/badge/IA%20Generativa-00A67E?style=for-the-badge&logo=openai&logoColor=white
-</p>
+<div align="center">
 
-<p align="center">
-  https://img.shields.io/badge/Arquitectura%20de%20Datos-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white
-  https://img.shields.io/badge/Documentaci%C3%B3n%20T%C3%A9cnica-181717?style=for-the-badge&logo=github&logoColor=white
-</p>
+| Icono | Tema | Propósito |
+|---|---|---|
+| 🤖 | **Machine Learning** | Crear modelos que permitan analizar datos y apoyar decisiones. |
+| ⚙️ | **Automatización avanzada** | Optimizar procesos repetitivos con mayor eficiencia. |
+| 🧠 | **IA generativa aplicada al trabajo** | Aplicar IA para productividad, análisis y generación de contenido. |
+| 🏗️ | **Arquitectura de datos** | Organizar datos de forma estructurada, confiable y escalable. |
+| 📝 | **Buenas prácticas de documentación técnica** | Documentar proyectos de forma clara, ordenada y profesional. |
 
-- Machine Learning.
-- Automatización avanzada.
-- IA generativa aplicada al trabajo.
-- Arquitectura de datos.
-- Buenas prácticas de documentación técnica.
+</div>
 
 ---
 
@@ -258,27 +248,13 @@ Procesos más eficientes y soluciones de mejora continua
 
 ## 📫 Contacto profesional
 
-<p align="center">
-  Puedes conectar conmigo o conocer más sobre mi perfil profesional a través de los siguientes canales:
-</p>
+| Canal | Enlace |
+|---|---|
+| 💼 **LinkedIn** | [linkedin.com/in/carlos-asencio-a60ba2198](https://www.linkedin.com/in/carlos-asencio-a60ba2198) |
+| 🧑‍💻 **GitHub** | https://github.com/TU-USUARIO-GITHUB |
+| 📧 **Email** | [asenciocarlos003@gmail.com](mailto:asenciocarlos003@gmail.com) |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-asencio-a60ba2198" target="_blank">
-    https://img.shields.io/badge/LinkedIn-Carlos%20Asencio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-</p>
-
-<p align="center">
-  https://github.com/TU-USUARIO-GITHUB
-    https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:Asenciocarlos003@gmail.com">
-    https://img.shields.io/badge/Email-Asenciocarlos003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  </a>
-</p>
+</div>
 
 ---
 
